@@ -59,8 +59,4 @@
 Figma：
 https://www.figma.com/design/5cLGxpFtDWaefTpKAy3KVt/Untitled?node-id=0-1&node-type=canvas&t=qnxHnhcyWxgzX3fg-0
 
-### ER図
-
-![ER2 drawio](https://github.com/user-attachments/assets/232cc7ed-3ca2-45e7-84b3-f60790ed027d)
-
-
+### IS図
