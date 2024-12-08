@@ -1,0 +1,6 @@
+[submodule "Portfolio-front"]
+	path = Portfolio-front
+	url = https://github.com/sora2525/Portfolio-front.git
+[submodule "Portfolio-back"]
+	path = Portfolio-back
+	url = https://github.com/sora2525/Portfolio-back.git
