@@ -1,8 +1,8 @@
-[submodule "Portfolio-front"]
-	path = Portfolio-front
-	url = https://github.com/sora2525/Portfolio-front.git
-	branch = main
 [submodule "Portfolio-back"]
 	path = Portfolio-back
 	url = https://github.com/sora2525/Portfolio-back.git
+	branch = main
+[submodule "Portfolio-front"]
+	path = Portfolio-front
+	url = https://github.com/sora2525/Portfolio-front.git
 	branch = main
